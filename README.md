@@ -1,4 +1,4 @@
-![5 Supply Chain Dataset](https://github.com/user-attachments/assets/af3e3e23-084b-47a6-b553-ad0676511d61)# Supply_Chain_Dataset
+# Supply_Chain_Dataset
 this is my 5th project with Quantum Analytics
 
 ## Table of Contents
